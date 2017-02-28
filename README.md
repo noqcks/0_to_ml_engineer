@@ -1,7 +1,8 @@
 # 0 to ML Engineer
 
 I will put materials and coursework here that I'm using to teach myself machine
-learning, and hopefully get a job doing machine learning afterwards!
+learning. Eventually I'm hoping to use this knowledge to get a job doing machine
+learning!
 
 I've already brushed up on Linear Algebra, Probability, and Calculus before I
 started learning the following materials. All three of these topics are fairly
