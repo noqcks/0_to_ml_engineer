@@ -13,7 +13,8 @@ of either classes. This is called the margin.
 There are a number of parameters we can set before fitting as SVM (kernel, gamma,
 C, etc). See Q&A for more information on these.
 
-`good`: They work well in
+`good`: They work well in complicated domains with a clear marginal separation.
+
 `bad`: They don't perform well in really large datasets, because the training time
 is too large. They don't work that well with lots of overlap of features (naive bayes
 is better here).
@@ -72,9 +73,8 @@ Q. What kind of parameters can we use before fitting an SVM model?
 
 A.
 
-- C -> which is the soft margin cost function (trading error penalty for stability)
-- kernel -> the type of kernel to use to create a decision boundary.
-- gamma ->
+- C: which is the soft margin cost function (trading error penalty for stability)
+- kernel: the type of kernel to use to create a decision boundary.
 
 ### Example
 
