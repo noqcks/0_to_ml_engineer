@@ -83,3 +83,20 @@ And a decision boundary for a classifier might look like this
 
 ![naive_bayes_decision_boundary](assets/naive_bayes_decision_boundary.png)
 
+## Final Project Code
+
+```
+from sklearn.naive_bayes import GaussianNB
+from sklearn.metrics import accuracy_score
+
+clf = GaussianNB()
+t0 = time()
+clf.fit(features_train, labels_train)
+print "training time:", round(time()-t0, 3), "s"
+pred = clf.predict(features_test)
+
+accuracy = accuracy_score(pred, labels_test)
+print(accuracy)
+
+OUT> 0.973265073948
+```
