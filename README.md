@@ -23,13 +23,13 @@ I have roughly created my coursework based on the skills listed in this job post
 Introduction:
 
 - [x] 1. Udacity: Intro to Data Analysis
-- [ ] 3. Udacity: Intro to Machine Learning
+- [ ] 2. Udacity: Intro to Machine Learning
 
 The Meat:
 
-- [ ] 4. Coursera: Machine Learning
-- [ ] 5. Udacity: Machine Learning For Trading
-- [ ] 6. Udacity: Deep Learning From Google
+- [ ] 3. Coursera: Machine Learning
+- [ ] 4. Udacity: Machine Learning For Trading
+- [ ] 5. Udacity: Deep Learning From Google
 
 ### 1. Udacity: Intro To Data Analysis
 
