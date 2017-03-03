@@ -11,7 +11,7 @@ on (like sum).
 
 The formula we use for feature scaling is as follows:
 
-![feature_scaling](feature_scaling.png)
+![feature_scaling](assets/feature_scaling.png)
 
 where x(min) is the min x value in our dataset, and x(max) is the max value in our
 dataset.
