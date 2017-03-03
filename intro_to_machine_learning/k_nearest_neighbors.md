@@ -9,7 +9,7 @@ be the most common class, for regression it might take the mean).
 As we increase the `K` instances in the KNN classifier we smooth the data
 and make it more resistant to outliers.
 
-![knn_visualization](knn_visualization.png)
+![knn_visualization](assets/knn_visualization.png)
 
 `good`: very simple to understand and implement. It takes no time to train.
 
