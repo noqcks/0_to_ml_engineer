@@ -23,7 +23,7 @@ I have roughly created my coursework based on the skills listed in this job post
 Introduction:
 
 - [x] 1. Udacity: Intro to Data Analysis
-- [ ] 2. Udacity: Intro to Machine Learning
+- [x] 2. Udacity: Intro to Machine Learning
 
 The Meat:
 
@@ -37,15 +37,27 @@ https://www.udacity.com/course/intro-to-data-analysis--ud170
 
 folder: [intro\_to\_data_analysis/](intro_to_data_analysis/)
 
-review: #TODO
+review: A nice intro to the numpy and pandas libraries for python.
 
-time taken: #TODO
+time taken: 3 days @ ~8hrs a day. 24 hours.
 
 ### 2. Udacity: Intro to Machine Learning
 
 https://www.udacity.com/course/intro-to-machine-learning--ud120
 
 folder: [intro\_to\_machine_learning](intro_to_machine_learning/)
+
+review: This was an excellent course for a beginner to machine learning. It gently
+introduces you to the general process of machine learning (data probing, feature selection,
+algo selection, evaluation), while keeping the level of math to a minimum.
+
+time taken: 7 days @ ~7hrs a day. ~50 hrs.
+
+### 3. Udacity: Machine Learning For Trading
+
+https://www.udacity.com/course/machine-learning-for-trading--ud501
+
+folder: [machine\_learning\_for_trading](machine_learning_for_trading/)
 
 review: #TODO
 
