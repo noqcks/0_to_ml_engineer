@@ -4,8 +4,8 @@ I will put materials and coursework here that I'm using to teach myself machine
 learning. Eventually I'm hoping to use this knowledge to get a job doing machine
 learning!
 
-I've already brushed up on Linear Algebra, Probability, and Calculus before I
-started learning the following materials. All three of these topics are fairly
+I have already brushed up on Linear Algebra, Probability, and Calculus before I
+started learning the following materials. All three of these topics are
 important in machine learning.
 
 ## Skills
@@ -39,8 +39,6 @@ folder: [intro\_to\_data_analysis/](intro_to_data_analysis/)
 
 review: A nice intro to the numpy and pandas libraries for python.
 
-time taken: 3 days @ ~8hrs a day. 24 hours.
-
 ### 2. Udacity: Intro to Machine Learning
 
 https://www.udacity.com/course/intro-to-machine-learning--ud120
@@ -49,9 +47,8 @@ folder: [intro\_to\_machine_learning](intro_to_machine_learning/)
 
 review: This was an excellent course for a beginner to machine learning. It gently
 introduces you to the general process of machine learning (data probing, feature selection,
-algo selection, evaluation), while keeping the level of math to a minimum.
+algo selection, evaluation), while keeping the level of math to a minimum. 
 
-time taken: 7 days @ ~7hrs a day. ~50 hrs.
 
 ### 3. Udacity: Machine Learning For Trading
 
@@ -61,4 +58,3 @@ folder: [machine\_learning\_for_trading](machine_learning_for_trading/)
 
 review: #TODO
 
-time taken: #TODO
