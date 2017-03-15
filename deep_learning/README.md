@@ -37,3 +37,5 @@ Q. How do we combat numerical instability?
 A. We can normalize our inputs and outputs.
 
 Ideally we want them to have mean = 0 and equal variance.
+
+

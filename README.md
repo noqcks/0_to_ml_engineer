@@ -18,6 +18,20 @@ position that was posted by the Government of Ontario (located [here](lead_data_
 
 I have roughly created my coursework based on the skills listed in this job posting.
 
+- large scale distributed data acquisition
+- data cleaning & normalization
+- data storage
+- information extraction
+- RESTful APIs
+- data authentication
+- data visualization
+- design and build machine learning infrastructure including model training and
+serving API requests
+- Elasticsearch data storage
+- HBase
+- Kafka
+- Tesserect
+
 ## Courses
 
 Introduction:
@@ -27,8 +41,8 @@ Introduction:
 
 The Meat:
 
-- [ ] 3. Coursera: Machine Learning
-- [ ] 4. Udacity: Machine Learning For Trading
+- [x] 3. Udacity: Machine Learning For Trading
+- [ ] 4. Coursera: Machine Learning
 - [ ] 5. Udacity: Deep Learning From Google
 
 ### 1. Udacity: Intro To Data Analysis
@@ -47,14 +61,27 @@ folder: [intro\_to\_machine_learning](intro_to_machine_learning/)
 
 review: This was an excellent course for a beginner to machine learning. It gently
 introduces you to the general process of machine learning (data probing, feature selection,
-algo selection, evaluation), while keeping the level of math to a minimum. 
+algo selection, evaluation), while keeping the level of math to a minimum.
 
 
 ### 3. Udacity: Machine Learning For Trading
 
 https://www.udacity.com/course/machine-learning-for-trading--ud501
 
-folder: [machine\_learning\_for_trading](machine_learning_for_trading/)
+folder: N/A
 
-review: #TODO
+review: I didn't actually do this course because it was so bad. There was no coding
+exercises, and depth of the material was very shallow, so I passed on it.
 
+time taken: N/A
+
+### 4. Coursera: Machine Learning
+
+https://www.coursera.org/learn/machine-learning
+
+folder:
+
+
+### 5. Udacity: Deep Learning from Google
+
+https://www.udacity.com/course/deep-learning--ud730
