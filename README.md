@@ -42,8 +42,8 @@ Introduction:
 The Meat:
 
 - [x] 3. Udacity: Machine Learning For Trading
-- [ ] 4. Coursera: Machine Learning
-- [ ] 5. Udacity: Deep Learning From Google
+- [x] 4. Udacity: Deep Learning From Google
+- [x] 5. Udacity: Intro to Hadoop and Mapreduce
 
 ### 1. Udacity: Intro To Data Analysis
 
@@ -75,13 +75,22 @@ exercises, and depth of the material was very shallow, so I passed on it.
 
 time taken: N/A
 
-### 4. Coursera: Machine Learning
-
-https://www.coursera.org/learn/machine-learning
-
-folder:
-
-
-### 5. Udacity: Deep Learning from Google
+### 4. Udacity: Deep Learning from Google
 
 https://www.udacity.com/course/deep-learning--ud730
+
+folder: [deep_learning](deep_learning/)
+
+review: I found it was much easier to get information on neural networks through
+blog posts and reading tensorflow documentation. I completed the course, but
+some of the questions and exercises weren't structured very well. YMMV
+
+### 5. Udacity: Intro to Hadoop and Mapreduce
+
+https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
+
+folder: N/A
+
+review: The course had an excellent structure and the concepts were logically
+ordered. I think I completed this in half a day. It was very nice to finally
+understand hadoop.
