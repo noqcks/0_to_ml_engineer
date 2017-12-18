@@ -109,7 +109,7 @@ train_features Shape: (55000, 784) Type: float32
 The memory requirements for this would be
 
 ```
-((55000 * 784) * 8) = 172480000
+((55000 * 784) * 4) = 172480000
 ```
 
 That's 174MB of memory which means we could run it on most systems, but if it was
